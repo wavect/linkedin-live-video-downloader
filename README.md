@@ -8,3 +8,5 @@ Download LinkedIn Video Live events to your local device. Make sure you have the
 4. Manually log-in on the opened browser window.
 5. Wait until the video has been fully played (limitation by LinkedIn unfortunately).
 
+## Why this exists
+We occassionally weren't able or forgot to record our live streams on LinkedIn and couldn't then e.g. create Shorts out of it afterwards since we didn't have the local file. 
