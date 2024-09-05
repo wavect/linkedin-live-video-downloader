@@ -1,5 +1,5 @@
 # linkedin-live-video-downloader
-Download LinkedIn Video Live events to your local device. Make sure you have the permission to do so!
+Download LinkedIn Video Live events to your local device. Make sure you have the permission to do so (only download your own videos)!
 
 ## Get started
 1. Update `initialUrl` in the `main()` function.
